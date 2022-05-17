@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/client.dir/client/main.cpp.o CMakeFiles/client.dir/db/DataProvider.cpp.o CMakeFiles/client.dir/db/models/Book.cpp.o  -o client.exe -Wl,--out-implib,libclient.dll.a -Wl,--major-image-version,0,--minor-image-version,0   -L"/cygdrive/c/Users/child/Desktop/library_system/C:/Program Files/MySQL/lib"  -llibmysql 

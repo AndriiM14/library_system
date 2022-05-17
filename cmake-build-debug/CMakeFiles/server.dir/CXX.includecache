@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/child/Desktop/library_system/db/DataProvider.h
+vector
+-
+map
+-
+string
+-
+type_traits
+-
+models/Model.h
+/cygdrive/c/Users/child/Desktop/library_system/db/models/Model.h
+
+/cygdrive/c/Users/child/Desktop/library_system/db/models/Book.h
+Model.h
+/cygdrive/c/Users/child/Desktop/library_system/db/models/Model.h
+
+/cygdrive/c/Users/child/Desktop/library_system/db/models/Model.h
+
+/cygdrive/c/Users/child/Desktop/library_system/server/main.cpp
+../db/DataProvider.h
+/cygdrive/c/Users/child/Desktop/library_system/db/DataProvider.h
+../db/models/Book.h
+/cygdrive/c/Users/child/Desktop/library_system/db/models/Book.h
+vector
+-
+
